@@ -16,7 +16,8 @@
 - -3단계코드의실행스크린샷(여기에이미지삽입)
 -<img width="800" height="478" alt="점수 표시 수정" src="https://github.com/user-attachments/assets/1bedeabe-2169-40b6-b05f-fda3e5f2483f" />
  --> 버튼 클릭 성공 점수와 실패 점수 계산하여 폼 제목에 표시
-
+<img width="801" height="475" alt="버튼 크기 조절" src="https://github.com/user-attachments/assets/8ee42e1e-ad84-4cf5-b02d-ff21fa63c6fa" />
+ --> 버튼 클릭 성공시 버튼 크기를 5%씩 축소
 - -4단계코드의실행스크린샷(여기에이미지삽입)
 
 - ## 구현시어려웠던점-컨트롤의좌표를계산하는것이어려웠지만, ...-인터넷연결은Coilot의도움을받아...
