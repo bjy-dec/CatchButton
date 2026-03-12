@@ -9,7 +9,7 @@
 - -1단계코드의실행스크린샷(여기에이미지삽입)
 - <img width="798" height="480" alt="버튼 랜덤 위치" src="https://github.com/user-attachments/assets/7e06b5e8-bbec-445c-b72d-a317e300d4d1" />
 - <img width="800" height="476" alt="버튼 랜덤 위치(2)" src="https://github.com/user-attachments/assets/793880c9-8935-4e3e-8f0d-47ccf1614333" />
-마우스를 버튼 위로 옮길시 버튼 위치 랜덤 변경
+  --> 마우스를 버튼 위로 옮길시 버튼 위치 랜덤 변경
 - 2단계코드의실행스크린샷(여기에이미지삽입)
 -
 - -3단계코드의실행스크린샷(여기에이미지삽입)
