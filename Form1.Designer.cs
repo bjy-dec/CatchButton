@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             mybutton = new Button();
+            rebutton = new Button();
             SuspendLayout();
             // 
             // mybutton
@@ -45,11 +46,26 @@
             mybutton.MouseClick += mybutton_MouseClick;
             mybutton.MouseEnter += mybutton_MouseEnter;
             // 
+            // rebutton
+            // 
+            rebutton.BackColor = Color.FromArgb(255, 255, 192);
+            rebutton.Font = new Font("한컴 울주 천전리 각석체", 14.25F, FontStyle.Bold, GraphicsUnit.Point, 129);
+            rebutton.ForeColor = Color.FromArgb(192, 0, 0);
+            rebutton.Location = new Point(675, 394);
+            rebutton.Name = "rebutton";
+            rebutton.Size = new Size(126, 56);
+            rebutton.TabIndex = 1;
+            rebutton.Text = "재시작";
+            rebutton.UseVisualStyleBackColor = false;
+            rebutton.Click += rebutton_Click;
+            rebutton.MouseClick += rebutton_MouseClick;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(rebutton);
             Controls.Add(mybutton);
             Name = "Form1";
             Text = "버튼 잡기 게임";
@@ -60,5 +76,6 @@
         #endregion
 
         private Button mybutton;
+        private Button rebutton;
     }
 }
